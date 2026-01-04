@@ -43,4 +43,3 @@ jobs:
       # Step 7: Run tests (passes even if “no tests” yet)
       - name: Test
         run: go test -v ./...
-``
